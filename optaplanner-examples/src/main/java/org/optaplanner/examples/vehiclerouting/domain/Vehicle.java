@@ -30,6 +30,10 @@ public class Vehicle extends AbstractPersistable implements Standstill {
     // Shadow variables
     protected Customer nextCustomer;
 
+
+
+
+
     public Vehicle() {
     }
 
